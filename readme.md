@@ -1,6 +1,6 @@
 # CSE 3330 Project
 
-This repositry contains the directory for the projects done by Noah Walker and Jose Ibarra for CSE 3330 Databases.
+This repositry contains the directory for the projects done by Noah Walker and Jose Ibarra for CSE 3330 Databases taught by Dr. Bhanu Jain in the Spring 2021 semester at the University of Texas at Arlington.
 
 `Phase 1`
 ---
@@ -19,6 +19,8 @@ within that state.
 
 `Phase 2`
 ---
+***Phase_2*** is the directory for the second part of our project.
 
 `Phase 3`
 ---
+***Phase_3*** is the directory for the third part of our project.
